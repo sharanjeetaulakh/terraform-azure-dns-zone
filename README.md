@@ -2,7 +2,7 @@
 
 A reusable Terraform module for provisioning Azure DNS Zones using input variables and dynamic resource creation.
 
-## Architecture
+## Architecture 
 
 ```mermaid
 flowchart TD
